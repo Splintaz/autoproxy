@@ -5,6 +5,7 @@ Installs a list of proxies from the web.
 # What is Auto Proxy?
 
 Autoproxy exclusively uses Brave Browser, together with the Chromedriver to utilize Selenium and access your web browser without opening it at all. It installs the list of IPs and ports listed on the website, which it meshes together in order to create you a proxy list. This is an automated task that takes less time than copying the list yourself.
+
 ![server](images/splint.png)
 
 # Windows Instructions
