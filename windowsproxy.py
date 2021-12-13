@@ -1,3 +1,5 @@
+# Brave Auto Proxy
+# Created by https://github.com/Splintaz
 import os
 import selenium
 import re
