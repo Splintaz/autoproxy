@@ -1,5 +1,5 @@
 # Auto Proxy
-Installs a list of proxies from the web.
+Installs a list of proxies from your Brave Browser.
 ![server](images/server.png)
 
 # What is Auto Proxy?
