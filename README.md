@@ -1,6 +1,6 @@
 # Auto Proxy
 Installs a list of proxies from your Brave Browser.
-![server](images/server.png)
+![server| width: 100px height: 100px](images/server.png)
 
 # What is Auto Proxy?
 
