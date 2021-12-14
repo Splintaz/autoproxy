@@ -1,6 +1,5 @@
 # Auto Proxy
-Installs a list of proxies from your Brave Browser for Windows.
-Installs a list of proxies with wget, where it adds it to your proxychains configuration file for Linux.
+Installs a list of proxies from your Brave Browser for Windows, while for Linux it fetches proxies from a website where it later adds it to your proxychains configuration file.
 
 <img src="" width="300" height="300">
 
