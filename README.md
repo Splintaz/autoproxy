@@ -7,7 +7,7 @@ Installs a list of proxies from your Brave Browser.
 
 Autoproxy exclusively uses Brave Browser, together with the Chromedriver to utilize Selenium and access your web browser without opening it at all. It installs the list of IPs and ports listed on the website, which it meshes together in order to create you a proxy list. This is an automated task that takes less time than copying the list yourself.
 
-After creating the proxy list and running the proxy.py file, it will find the proxy list that you have created. Afterwards it will edit the registry keys in order for you to use them. It will actively ping the proxy server, on which it waits 75 seconds before it executes another ping. 
+After creating the proxy list and running the proxy.py file, it will find the proxy list that you have created. Afterwards it will edit the registry keys in order for you to use it. It will actively ping the proxy server, on which it waits 75 seconds before it executes another ping. 
 
 <img src="https://raw.githubusercontent.com/Splintaz/braveautoproxy/main/images/splint.png" width="300" height="300">
 
