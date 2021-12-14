@@ -8,7 +8,7 @@ Installs a list of proxies with wget, where it adds it to your proxychains confi
 
 Windows: Autoproxy exclusively uses Brave Browser, together with the Chromedriver to utilize Selenium and access your web browser without opening it at all. It installs the list of IPs and ports listed on the website, which it meshes together in order to create you a proxy list. This is an automated task that takes less time than copying the list yourself. After creating the proxy list and running the proxy.py file, it will find the proxy list that you have created. Afterwards it will edit the registry keys in order for you to use it. It will actively ping the proxy server, on which it waits 75 seconds before it executes another ping. 
 
-Linux: Autoproxy uses wget to fetch new data from a SOCKS5 website, where it later mashes together to create a new SOCKS5 list. This SOCKS5 list is later appended to your proxychains configuration file. 
+Linux: Autoproxy uses wget to fetch new data from a website, where it later mashes together to create a new SOCKS5 list. This SOCKS5 list is later appended to your proxychains configuration file. 
 
 <img src="https://raw.githubusercontent.com/Splintaz/braveautoproxy/main/images/splint.png" width="300" height="300">
 
