@@ -1,3 +1,5 @@
+# Brave Auto Proxy
+# Made for Windows. Created by https://github.com/Splintaz
 import os
 import time
 import sys
