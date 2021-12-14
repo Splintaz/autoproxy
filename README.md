@@ -15,7 +15,7 @@ To find out your Chromedriver version, go to Settings -> About Brave -> Chromium
 
 # Windows Instructions
 
-1. Install Selenium: pip install selenium
+1. Install requirements: pip install -r requirements.txt 
 2. Install Brave: https://brave.com
 3. Install Chromedriver: https://chromedriver.chromium.org/downloads
 4. Run the .py file
@@ -23,7 +23,7 @@ To find out your Chromedriver version, go to Settings -> About Brave -> Chromium
 
 # Linux Instructions
 
-1. Install Selenium: pip install selenium
+1. Install requirements: pip install -r requirements.txt 
 2. Install Brave: https://brave.com
 3. Install Chromedriver: https://chromedriver.chromium.org/downloads
 4. Brave should be in /opt/brave.com/brave/brave
