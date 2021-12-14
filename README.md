@@ -28,6 +28,8 @@ If the proxy server you are using is not responding, or you wish to remove the p
 
 # Linux Instructions
 
-1. Install requirements: pip install -r requirements.txt, apt install proxychains 
+1. Install requirements: 
+* pip install -r requirements.txt
+* apt install proxychains 
 2. Run the list.py file.
 3. You should now have a list of SOCKS5 proxies in your /etc/proxychains.conf 
