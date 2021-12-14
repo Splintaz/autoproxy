@@ -14,7 +14,7 @@ Linux: Autoproxy uses wget to fetch new data from a SOCKS5 website, where it lat
 
 To find out your Chromedriver version, go to Settings -> About Brave -> Chromium: <your-chromedriver-version>
 
-<img src="https://raw.githubusercontent.com/Splintaz/braveautoproxy/main/images/version.png" width="600" height="500">
+<img src="https://raw.githubusercontent.com/Splintaz/braveautoproxy/main/images/version.png">
 
 # Windows Instructions
 
