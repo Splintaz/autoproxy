@@ -1,7 +1,7 @@
 # Auto Proxy
 Installs a list of proxies from your Brave Browser for Windows, while for Linux it fetches proxies from a website where it later adds it to your proxychains configuration file.
 
-<img src="" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Splintaz/autoproxy/main/images/autoproxy.png" width="300" height="300">
 
 # What is Auto Proxy?
 
