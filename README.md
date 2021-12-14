@@ -1,7 +1,7 @@
 # Brave Auto Proxy
 Installs a list of proxies from your Brave Browser.
 
-<img src="https://raw.githubusercontent.com/Splintaz/braveautoproxy/main/images/server.png" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Splintaz/braveautoproxy/main/images/brave.png" width="300" height="300">
 
 # What is Brave Auto Proxy?
 
