@@ -19,7 +19,7 @@ To find out your Chromedriver version, go to Settings -> About Brave -> Chromium
 2. Install Brave: https://brave.com
 3. Install Chromedriver: https://chromedriver.chromium.org/downloads
 4. Run the .py file
-5. Success
+5. You should now get a proxylist.txt in your directory
 
 # Linux Instructions
 
@@ -30,4 +30,4 @@ To find out your Chromedriver version, go to Settings -> About Brave -> Chromium
 5. Chromedriver should be in /usr/bin/chromedriver
 6. Do not run as root
 7. Run the .py file
-8. Success
+8. You should now get a proxylist.txt in your directory
