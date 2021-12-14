@@ -1,5 +1,5 @@
 # Brave Auto Proxy
-Installs a list of proxies from your Brave Browser.
+Installs a list of proxies from your Brave Browser, and edits your system proxy settings with the power of magic.
 
 <img src="https://raw.githubusercontent.com/Splintaz/braveautoproxy/main/images/brave.png" width="300" height="300">
 
